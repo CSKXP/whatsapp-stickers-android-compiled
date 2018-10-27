@@ -3,3 +3,8 @@
 I compiled the [sample project of WhatsApp's stickers project](https://github.com/WhatsApp/stickers).
 
 I **DIDN'T** modify anything in that project. Just opened the project in Android Studio and compiled a debug APK
+
+### Info
+
+ - Compiled in Android Studio Preview 3.2 Beta 4
+ - Compiled with a debug key
